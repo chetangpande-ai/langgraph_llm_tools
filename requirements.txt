@@ -21,3 +21,5 @@ sentence-transformers
 langgraph
 graphviz
 streamlit
+playwright
+asyncio
